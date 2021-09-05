@@ -15,3 +15,4 @@ https://viakeegan.github.io/run-buddy/
 Made with ❤️ by keesparc
 
 ### ©️2019 Run Buddy, Inc 
+  
